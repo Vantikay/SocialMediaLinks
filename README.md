@@ -13,6 +13,9 @@
  .
  [social media site identifier (eg. YouTube, Instagram,...)] [social media link]
  ```
+> [!WARNING]
+> Sites and links cannot have spaces.
+
  Any number of entries can be added this way, and more can be added in another `add` call. Also, after a call, `social_media_io.txt` will be cleared.
  
  ## Requesting/Receiving Data
