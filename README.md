@@ -54,7 +54,10 @@
  .
  [site n] [link n]
  ```
-[UMl Sequence Diagram](SocialMediaLinksUML.png)
+
+ ## UML Sequence Diagram
+
+![UMl Sequence Diagram](https://github.com/Vantikay/SocialMediaLinks/blob/main/SocialMediaLinksUML.png)https://github.com/Vantikay/SocialMediaLinks/blob/main/SocialMediaLinksUML.png
  
  
  
